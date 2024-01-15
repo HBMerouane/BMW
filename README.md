@@ -16,7 +16,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
   - [Compréhension et organisation du projet](#Compréhension-et-organisation-du-projet)
   - [ETL](#ETL)(Extraction, Transform and Load)
   - [Nettoyage et préparation des données](#Nettoyage-et-préparation-des-données)
-  - [Analyse, rapports et tableau de bord](#Analyse,-rapports-et-tableau-de-bord)
+  - [Analyse, rapports et tableau de bord](#Analyse-rapports-et-tableau-de-bord)
 - [Conclusion](#Conclusion)
 - [Annexes](#Annexes)
 </details>

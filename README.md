@@ -55,6 +55,7 @@ Nous avons choisis Power BI pour cette étape et les étapes suivantes. Bien que
 - Construction des tables des faits et dimensions pour VW, celles de BMW ont été générée à l'étape précédente,
 - Calculs des KPIs (DAX).
 Les formules de mesures simples étaient suffisantes pour le calcul, sauf pour un KPI qui mesurait l'accroissement annuel du chiffre d'affaire, Voici sa formule:
+
 Growth revenue per year = 
 VAR CurrentYearSales = SUM('F-IncomeStatement'[Revenues])
 VAR PreviousYearSales = CALCULATE(

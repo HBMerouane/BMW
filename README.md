@@ -127,4 +127,6 @@ Téléchargez les fichiers nécessaires [ici]()
 - Énnoncé du projet,
 - Données nettoyés de VW,
 - Données nettoyés et tables de faits et dimensions de BMW,
-- Scripts Python (sous Colab);
+- Scripts Python (sous Colab),
+- Présentation Power Point,
+- Rapports BMW et VW.

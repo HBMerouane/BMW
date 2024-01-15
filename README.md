@@ -56,6 +56,7 @@ Nous avons choisis Power BI pour cette étape et les étapes suivantes. Bien que
 - Calculs des KPIs (DAX).
 Les formules de mesures simples étaient suffisantes pour le calcul, sauf pour un KPI qui mesurait l'accroissement annuel du chiffre d'affaire, Voici sa formule:
 
+```python
 Growth revenue per year = 
 VAR CurrentYearSales = SUM('F-IncomeStatement'[Revenues])
 VAR PreviousYearSales = CALCULATE(
@@ -73,6 +74,6 @@ IF(
         CurrentYearSales - PreviousYearSales,
         PreviousYearSales
     )
-)
+)'''
 
 ## Étape 4: Analyse et rapports

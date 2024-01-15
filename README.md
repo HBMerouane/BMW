@@ -18,7 +18,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 4. Conclusion
 5. Annexes
 
-#1. Résumé du projet
+# 1. Résumé du projet
 Le projet consiste à faire une analyse des données financières de BMW de 2021 en mettant l'accent sur l'évolution d'une année à l'autre des points suivants suivants: 
 - Chiffre d'affaire, 
 - Coûts de production,

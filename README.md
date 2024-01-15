@@ -16,6 +16,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
  3.3- Nettoyage et préparation des données
  3.4- Analyse, rapports et tableau de bord
 4- Conclusion
+5- Annexes
 
 # 1. Résumé du projet:
 Le projet consiste à faire une analyse des données financières de BMW de 2021 en mettant l'accent sur l'évolution d'une année à l'autre des points suivants suivants: 
@@ -42,7 +43,7 @@ Les données financières des groupe BMW et VW sont disponibles en libre accès 
 
 ## 3.2. Étape 2: ETL (Extraction, Transform and Load)
 ### Étape 2.1-BMW
-Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et nettoyées en utilisant Python (voir le colab ici). 
+Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et nettoyées en utilisant Python. 
 
 Exemple de feuille BMW original et résultat après traitement Python:
 ![image](https://github.com/elho2007/BMW/assets/34011591/916ae37f-22dc-4b97-bbfe-a719d1e65020)
@@ -112,3 +113,8 @@ Trois insights essentiels ont été tirées de cette analyse:
 
 ## 4. Conclusion:
 Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI, DAX, Power query, Python, Sheets, CSV. Par ailleurs, nous avons dû avoir de nouvelles connaissances en finance pour pouvoir utiiser les bon KPIs et faire les bonnes interprétations.
+
+## 5. Annexes:
+- Énnoncé du projet: 
+- Données nettoyés:
+- Scripts Python sous Colab:

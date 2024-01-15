@@ -21,8 +21,8 @@ Un autre aspect de l'étude consiste à faire une comparaison entre les résulta
  
 # Sources des données
 Les données financières des groupe BMW et VW sont disponibles en libre accès au publique, sur leurs sites officiel respectives:
-https://www.bmwgroup.com/en/download-centre.html
-https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux données des autres années)
+- https://www.bmwgroup.com/en/download-centre.html
+- https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux données des autres années)
 
 # Étapes et outils:
 ## Étape 1: Compréhension de l'objectif et organisation du déroulement de projet 

@@ -13,8 +13,8 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 - [Résumé du projet](#Résumé-du-projet)
 - [Sources des données](#Sources-des-données)
 - [Étapes et outils](#Étapes-et-outils)
-  - [Compréhension de l'objectif et organisation du déroulement de projet](#Compréhension-de-l'objectif-et-organisation-du-déroulement-de-projet)
-  - [ETL](#ET)(Extraction, Transform and Load)
+  - [Compréhension et organisation du projet](#Compréhension-et-organisation-du-projet)
+  - [ETL](#ETL)(Extraction, Transform and Load)
   - [Nettoyage et préparation des données](#Nettoyage-et-préparation-des-données)
   - [Analyse, rapports et tableau de bord](#Analyse,-rapports-et-tableau-de-bord)
 - [Conclusion](#Conclusion)
@@ -37,14 +37,14 @@ Les données financières des groupe BMW et VW sont disponibles en libre accès 
 - https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux données des autres années, 2021, 2020, ...)
 
 # Étapes et outils:
-## Compréhension de l'objectif et organisation du déroulement de projet 
+## Compréhension et organisation du projet
 - Compréhension des questions du projet,
 - Exploration des données sources BMW et VW pour un inventaire des informations disponibles,
 - Étude des mesures financières théoriques utiles à l'étude de la santé financière d'une entreprise (KPIs),
 - Choix des mesures à calculer et des données intervenantes dans ces calculs, 
 - Organisation du projet, diagramme de Gantt est utilisé.
 
-## ETL (Extraction, Transform and Load)
+## ETL
 ### BMW
 Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et nettoyées en utilisant Python. 
 

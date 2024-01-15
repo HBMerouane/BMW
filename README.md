@@ -123,6 +123,8 @@ Trois insights essentiels ont été tirées de cette analyse:
 Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI, DAX, Power query, Python, Sheets, CSV. Par ailleurs, nous avons dû avoir de nouvelles connaissances en finance pour pouvoir utiiser les bon KPIs et faire les bonnes interprétations.
 
 ## Annexes
-- Énnoncé du projet: 
-- Données nettoyés:
-- Scripts Python sous Colab:
+Téléchargez les fichiers nécessaires [ici](main)
+- Énnoncé du projet,
+- Données nettoyés de VW,
+- Données nettoyés et tables de faits et dimensions de BMW,
+- Scripts Python (sous Colab);

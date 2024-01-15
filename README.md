@@ -1,5 +1,6 @@
-# BMW
 BMW FINANCIAL ANALYSIS
+![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
+
 # Sommaire:
 
 # Contexte:
@@ -13,9 +14,11 @@ Le projet consiste à faire une analyse des données financières de BMW de 2021
 - Actifs et passifs,
 - Rendement de l'activité,
 - etc.. 
-Un autre aspect de l'étude consiste à faire une comparaison entre les résultats de BMW et ceux d'un concurrent, en l'occurence ici, ceux de VW.
+Un autre aspect de l'étude consiste à faire une comparaison entre les résultats de BMW et ceux d'un concurrent, en l'occurence ici VW.
  
 # Source de données
-Les données financières du groupe BMW sont disponibles au publique sur leur site officiel. L'étude a consisté 
+Les données financières des groupe BMW et VW sont disponibles en libre accès au publique, sur leurs sites officiel respectives:
+https://www.bmwgroup.com/en/download-centre.html
+https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux données des autres années)
 
-![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
+

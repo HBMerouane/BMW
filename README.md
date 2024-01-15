@@ -7,16 +7,19 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 
 ![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
 
-# Sommaire:
-1. [Résumé du projet](#1.-Résumé-du-projet)
-2. [Sources des données](#-2.-Sources-des-données)
-3. Étapes et outils
-  - Compréhension de l'objectif et organisation du déroulement de projet
-  - ETL (Extraction, Transform and Load)
-  - Nettoyage et préparation des données
-  - Analyse, rapports et tableau de bord
-4. [Conclusion](#4.-Conclusion)
-5. Annexes
+<details open="open">
+<summary>Sommaire</summary>
+
+- [Résumé du projet](#Résumé-du-projet)
+- [Sources des données](#Sources-des-données)
+- [Étapes et outils](#Étapes-et-outils)
+  - [Compréhension de l'objectif et organisation du déroulement de projet](#Compréhension-de-l'objectif-et-organisation-du-déroulement-de-projet)
+  - [ETL](#ET)(Extraction, Transform and Load)
+  - [Nettoyage et préparation des données](#Nettoyage-et-préparation-des-données)
+  - [Analyse, rapports et tableau de bord](#Analyse,-rapports-et-tableau-de-bord)
+- [Conclusion](#Conclusion)
+- [Annexes](#Annexes)
+</details>
 
 # 1. Résumé du projet
 Le projet consiste à faire une analyse des données financières de BMW de 2021 en mettant l'accent sur l'évolution d'une année à l'autre des points suivants suivants: 

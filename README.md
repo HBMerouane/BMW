@@ -3,7 +3,7 @@ BMW FINANCIAL ANALYSIS
 # Contexte:
 Ce projet a été effectué dans le cadre de mise en situation à la fin de formation POEC Data Analyst de Global Knowledge.
 
-Image: Tableau de bord élaboré avec Power BI.
+Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi les déliverables.
 
 ![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
 
@@ -34,5 +34,13 @@ https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux donn
 
 ## Étape 2: ETL (Extraction, Transform and Load)
 Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et néttoyées en utilisant Python (voir le colab ici). Ceux de VW en utilisant les outils de feuilles de calculs (Google Sheets et SheetsPal).
+
 Exemple de feuille BMW original et résultat après traitement Python:
 ![image](https://github.com/elho2007/BMW/assets/34011591/916ae37f-22dc-4b97-bbfe-a719d1e65020)
+
+Traitements effectués avec Python dans l'ordre:
+- Téléchargement des feuilles de calculs depuis le site de BMW en utilisant Pandas,
+- Effacer les lignes et colonnes non nécessauires,
+- Transposition et ajout de noms de colonnes corrigés,
+- Enregistrement en nouveaux feuilles de calculs,
+- Construction des tâbles de faits et de dimensions.

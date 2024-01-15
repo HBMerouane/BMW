@@ -8,7 +8,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 ![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
 
 # Sommaire:
-1. [Résumé du projet](# 1. Résumé du projet:)
+1. [Résumé du projet](#-1. Résumé du projet:)
 2. Sources des données
 3. Étapes et outils
   - Compréhension de l'objectif et organisation du déroulement de projet

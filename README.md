@@ -12,9 +12,9 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 - 2- Sources des données
 - 3- Étapes et outils
 - 3.1- Compréhension de l'objectif et organisation du déroulement de projet
--  3.2- ETL (Extraction, Transform and Load)
--   3.3- Nettoyage et préparation des données
--    3.4- Analyse, rapports et tableau de bord
+ -  3.2- ETL (Extraction, Transform and Load)
+ -   3.3- Nettoyage et préparation des données
+ -    3.4- Analyse, rapports et tableau de bord
 -    4- Conclusion
 -    5- Annexes
 

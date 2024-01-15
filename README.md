@@ -1,9 +1,9 @@
 # BMW FINANCIAL ANALYSIS
 
+## Contexte:
 <table>
 <tr>
 <td>
-## Contexte:
 Ce projet a été effectué dans le cadre de mise en situation, à la fin de formation POEC Data Analyst de Global Knowledge. L'équipe contenait quatres membres: Houcine, Tomos, Nancy et Boubacar. Bien que les tâches ont été partagées, l'implication de tous les membres à chaque tâche était plus ou moins respectée.
 </td>
 </tr>

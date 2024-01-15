@@ -21,7 +21,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 - [Annexes](#Annexes)
 </details>
 
-# 1. Résumé du projet
+# Résumé du projet
 Le projet consiste à faire une analyse des données financières de BMW de 2021 en mettant l'accent sur l'évolution d'une année à l'autre des points suivants suivants: 
 - Chiffre d'affaire, 
 - Coûts de production,
@@ -31,21 +31,21 @@ Le projet consiste à faire une analyse des données financières de BMW de 2021
 - etc.. 
 Un autre aspect de l'étude consiste à faire une comparaison entre les résultats de BMW et ceux d'un concurrent, en l'occurence ici VW.
  
-# 2. Sources des données
+# Sources des données
 Les données financières des groupe BMW et VW sont disponibles en libre accès au publique, sur leurs sites officiel respectives:
 - https://www.bmwgroup.com/en/download-centre.html
 - https://annualreport2022.volkswagenag.com (modifier l'url pour accéder aux données des autres années, 2021, 2020, ...)
 
-# 3. Étapes et outils:
-## 3.1. Étape 1: Compréhension de l'objectif et organisation du déroulement de projet 
+# Étapes et outils:
+## Compréhension de l'objectif et organisation du déroulement de projet 
 - Compréhension des questions du projet,
 - Exploration des données sources BMW et VW pour un inventaire des informations disponibles,
 - Étude des mesures financières théoriques utiles à l'étude de la santé financière d'une entreprise (KPIs),
 - Choix des mesures à calculer et des données intervenantes dans ces calculs, 
 - Organisation du projet, diagramme de Gantt est utilisé.
 
-## 3.2. Étape 2: ETL (Extraction, Transform and Load)
-### Étape 2.1-BMW
+## ETL (Extraction, Transform and Load)
+### BMW
 Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et nettoyées en utilisant Python. 
 
 Exemple de feuille BMW original et résultat après traitement Python:
@@ -57,10 +57,10 @@ Traitements effectués avec Python dans l'ordre:
 - Transposition et ajout de noms de colonnes corrigés,
 - Enregistrement en nouveaux feuilles de calculs,
 - Construction des tâbles de faits et de dimensions pour BMW.
-### Étape 2.2-VW
+### VW
 De même, les données de VW ont été traitées en utilisant les outils de feuilles de calculs (Google Sheets et SheetsPal). Le temps nécessaire était moins important que celui de BMW en comptant le temps de développement Python mais en cas de données plus volumineux et de tâches répététives, il est clairement établi que Python est largement plus efficace.
 
-## 3.3. Étape 3: Nettoyage et préparation des données
+## Nettoyage et préparation des données
 Nous avons choisis Power BI pour cette étape et les étapes suivantes. Bien que le nettoyage des données a été effectué à l'étape 2 mais un nettoyage supplémentaire était nécessaire sous PBI Desktop pour corriger les erreurs de type par exemple. Deux modèles séparés pour BMW et VW ont été élaborés dû au partage de tâches entre les membres de l'équipe. Voici quelques opérations effectuées avec PBI Desktop dans cette étape:
 - Nettoyage et typage des colonnes,
 - Préparation de la colonne date (ici l'année, pas de données de jour ou mois),
@@ -93,7 +93,7 @@ Image: Le modèle des données de BMW sur Power BI:
 ![image](https://github.com/elho2007/BMW/assets/34011591/e56ead57-d3da-4382-805b-2d0c29a018d1)
 
 
-## 3.4. Étape 4: Analyse, rapports et tableau de bord
+## Analyse, rapports et tableau de bord
 Nous avons utilisé principalement des histogrammes pour visualiser le développement sur les années des différents KPIs, mais aussi des diagrammes sectoriels et courbe quand il s'agit de l'analyse par secteur d'activité. Voici quelques pages du rapport en incluant la formule du KPI utilisé:
 - ![image](https://github.com/elho2007/BMW/assets/34011591/c562d99e-b2fd-4db2-aa33-532a1ea5916e)
 
@@ -114,10 +114,10 @@ Trois insights essentiels ont été tirées de cette analyse:
 - Depuis COVID, les deux entreprises BMW et VW récupèrent leur rythme de croissance constaté avant la crise;
 - Bien que le taux d'endettement de BMW est légèrement meilleur que celui de VW, cela ne permet pas de dire que BMW est mieux placé pour obtenir des crédits de développement (Voir la crise de VW de 2015).
 
-## 4. Conclusion
+## Conclusion
 Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI, DAX, Power query, Python, Sheets, CSV. Par ailleurs, nous avons dû avoir de nouvelles connaissances en finance pour pouvoir utiiser les bon KPIs et faire les bonnes interprétations.
 
-## 5. Annexes
+## Annexes
 - Énnoncé du projet: 
 - Données nettoyés:
 - Scripts Python sous Colab:

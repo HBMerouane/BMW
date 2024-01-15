@@ -15,7 +15,7 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
   - ETL (Extraction, Transform and Load)
   - Nettoyage et préparation des données
   - Analyse, rapports et tableau de bord
-4. Conclusion
+4. [Conclusion](#4.-Conclusion)
 5. Annexes
 
 # 1. Résumé du projet
@@ -111,10 +111,10 @@ Trois insights essentiels ont été tirées de cette analyse:
 - Depuis COVID, les deux entreprises BMW et VW récupèrent leur rythme de croissance constaté avant la crise;
 - Bien que le taux d'endettement de BMW est légèrement meilleur que celui de VW, cela ne permet pas de dire que BMW est mieux placé pour obtenir des crédits de développement (Voir la crise de VW de 2015).
 
-## 4. Conclusion:
+## 4. Conclusion
 Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI, DAX, Power query, Python, Sheets, CSV. Par ailleurs, nous avons dû avoir de nouvelles connaissances en finance pour pouvoir utiiser les bon KPIs et faire les bonnes interprétations.
 
-## 5. Annexes:
+## 5. Annexes
 - Énnoncé du projet: 
 - Données nettoyés:
 - Scripts Python sous Colab:

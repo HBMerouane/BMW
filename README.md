@@ -102,11 +102,11 @@ Image: Le modèle des données de BMW sur Power BI:
 
 ## Analyse, rapports et tableau de bord
 Nous avons utilisé principalement des histogrammes pour visualiser le développement sur les années des différents KPIs, mais aussi des diagrammes sectoriels et courbe quand il s'agit de l'analyse par secteur d'activité. Voici quelques pages du rapport en incluant la formule du KPI utilisé:
-- ![image](https://github.com/elho2007/BMW/assets/34011591/c562d99e-b2fd-4db2-aa33-532a1ea5916e)
+![image](https://github.com/elho2007/BMW/assets/34011591/c562d99e-b2fd-4db2-aa33-532a1ea5916e)
 
-- ![image](https://github.com/elho2007/BMW/assets/34011591/b76adb98-ff86-4fe5-ab5f-a853307c3bf2)
+![image](https://github.com/elho2007/BMW/assets/34011591/b76adb98-ff86-4fe5-ab5f-a853307c3bf2)
 
-- ![image](https://github.com/elho2007/BMW/assets/34011591/830bff66-47a9-44d8-9cfe-afefc9a27456)
+![image](https://github.com/elho2007/BMW/assets/34011591/830bff66-47a9-44d8-9cfe-afefc9a27456)
   
 -![image](https://github.com/elho2007/BMW/assets/34011591/6f3f2b8d-f8be-4b13-a41e-3f537f7c500d)
 

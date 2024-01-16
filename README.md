@@ -125,10 +125,10 @@ Trois insights essentiels ont été tirées de cette analyse:
 Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI, DAX, Power query, Python, Sheets, CSV. Par ailleurs, nous avons dû avoir de nouvelles connaissances en finance pour pouvoir utiiser les bon KPIs et faire les bonnes interprétations.
 
 ## Annexes
-Téléchargez les fichiers nécessaires [ici]()
+Téléchargez les fichiers nécessaires [ici]():
 - Énnoncé du projet - AnalyseFinanceBMW.pdf,
 - Données nettoyés de VW - dossier VW,
 - Données nettoyés et tables de faits et dimensions de BMW - dossier Fact and dimension tables/Fact and dimension,
-- Scripts Python (sous Colab),
+- Scripts Python (sous Colab) - dossier Python,
 - Présentation Power Point - Project_presentation.pptx,
 - Rapports BMW et VW fichiers bmw.pbix et vw.pbix.

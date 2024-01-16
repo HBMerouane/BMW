@@ -8,8 +8,8 @@ Ce projet a été effectué dans le cadre de mise en situation, à la fin de for
 </td>
 </tr>
 </table>
-* Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi les déliverables. *
 
+*Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi les déliverables.*
 ![image](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)
 
 <details open="open">
@@ -55,7 +55,7 @@ Les données financières des groupe BMW et VW sont disponibles en libre accès 
 ### BMW
 Les données de BMW ont été extrait depuis des feuilles de calculs (.xlsx), transformé et nettoyées en utilisant Python. 
 
-Exemple de feuille BMW original et résultat après traitement Python:
+*Exemple de feuille BMW original et résultat après traitement Python*
 ![image](https://github.com/elho2007/BMW/assets/34011591/916ae37f-22dc-4b97-bbfe-a719d1e65020)
 
 Traitements effectués avec Python dans l'ordre:
@@ -95,13 +95,15 @@ IF(
     )
 )
 ```
-Image: Le modèle des données de BMW sur Power BI:
 
+*Image: Le modèle des données de BMW sur Power BI*
 ![image](https://github.com/elho2007/BMW/assets/34011591/e56ead57-d3da-4382-805b-2d0c29a018d1)
 
 
 ## Analyse, rapports et tableau de bord
 Nous avons utilisé principalement des histogrammes pour visualiser le développement sur les années des différents KPIs, mais aussi des diagrammes sectoriels et courbe quand il s'agit de l'analyse par secteur d'activité. Voici quelques pages du rapport en incluant la formule du KPI utilisé:
+
+
 ![image](https://github.com/elho2007/BMW/assets/34011591/c562d99e-b2fd-4db2-aa33-532a1ea5916e)
 
 ![image](https://github.com/elho2007/BMW/assets/34011591/b76adb98-ff86-4fe5-ab5f-a853307c3bf2)
@@ -113,7 +115,7 @@ Nous avons utilisé principalement des histogrammes pour visualiser le développ
 Nous avons également inclus des prévisions pour les deux années suivantes 2022-2023:
 ![image](https://github.com/elho2007/BMW/assets/34011591/5f56f6ac-c100-4086-b75f-bbb569fd5083)
 
-**Un travail similaire a été effectué pour VW pour obtenir des KPIs avec lesquels comparer ceux de BMW. Les deux rapports de BMW et VW générés séparément avec Power BI Destop, ont été chargé sur power BI Service pour élaborer un Dashboard résumant ces résultats et incluant un comparatif entre les deux groups**
+**Un travail similaire a été effectué pour VW pour obtenir des KPIs avec lesquels comparer ceux de BMW. Les deux rapports de BMW et VW générés séparément avec Power BI Destop, ont été chargé sur power BI Service pour élaborer un Dashboard résumant ces résultats et incluant un comparatif entre les deux groups.**
 ![image](https://github.com/elho2007/BMW/assets/34011591/cf394d81-a7a7-4a03-8928-859f465fa65c)
 
 Trois insights essentiels ont été tirées de cette analyse:

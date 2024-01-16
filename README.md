@@ -10,6 +10,13 @@ Ce projet a été effectué dans le cadre de mise en situation, à la fin de for
 </table>
 Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi les déliverables.
 
+<figure>
+  <img
+  src="[https://developer.mozilla.org/static/img/favicon144.png](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b)"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
+
 !![Employee data](https://github.com/elho2007/BMW/assets/34011591/f2f9cfd2-6341-455d-93f9-7fd244648d0b "Employee Data title")
 
 <details open="open">

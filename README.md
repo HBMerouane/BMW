@@ -20,6 +20,8 @@ Image: Capture écran du tableau de bord élaboré avec Power BI et fourni parmi
 - [Étapes et outils](#Étapes-et-outils)
   - [Compréhension et organisation du projet](#Compréhension-et-organisation-du-projet)
   - [ETL](#ETL)(Extraction, Transform and Load)
+    - BMW
+    - VW
   - [Nettoyage et préparation des données](#Nettoyage-et-préparation-des-données)
   - [Analyse, rapports et tableau de bord](#Analyse-rapports-et-tableau-de-bord)
 - [Conclusion](#Conclusion)

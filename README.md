@@ -126,9 +126,9 @@ Le projet nous a permis d'appliquer plusieurs connaissances et outils: Power BI,
 
 ## Annexes
 Téléchargez les fichiers nécessaires [ici]()
-- Énnoncé du projet,
-- Données nettoyés de VW,
-- Données nettoyés et tables de faits et dimensions de BMW,
+- Énnoncé du projet - AnalyseFinanceBMW.pdf,
+- Données nettoyés de VW - dossier VW,
+- Données nettoyés et tables de faits et dimensions de BMW - dossier Fact and dimension tables/Fact and dimension,
 - Scripts Python (sous Colab),
-- Présentation Power Point,
-- Rapports BMW et VW.
+- Présentation Power Point - Project_presentation.pptx,
+- Rapports BMW et VW fichiers bmw.pbix et vw.pbix.

@@ -1,4 +1,3 @@
-![logo](https://investormoney.com/img/lg/brokers/paxful.jpg)
 # BMW FINANCIAL ANALYSIS
 
 ## Contexte:
